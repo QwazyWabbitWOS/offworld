@@ -1,4 +1,92 @@
 {
+"wait" "3.0"
+"sounds" "2"
+"target" "q2@38.103.8.98:27917"
+"message" "Off World Transportation\nto\nClan {DOU} ~ LOX ~ DOU Rules\n(38.103.8.98:27917)"
+"origin" "768 -992 22"
+"classname" "misc_offworld_teleporter"
+}
+{
+"wait" "3.0"
+"sounds" "2"
+"target" "q2@203.206.95.1:27910"
+"message" "Off World Transportation\nto\nOceanic Gaming's[DeathMatch]\n(203.206.95.1:27910)"
+"origin" "256 -992 22"
+"classname" "misc_offworld_teleporter"
+}
+{
+"wait" "3.0"
+"sounds" "2"
+"target" "q2@72.5.249.2:27910"
+"message" "Off World Transportation\nto\nEl Paso RoadRunner WODX V1.3\n(72.5.249.2:27910)"
+"origin" "-256 -992 22"
+"classname" "misc_offworld_teleporter"
+}
+{
+"wait" "3.0"
+"sounds" "2"
+"target" "q2@skies.servequake.com:27911"
+"message" "Off World Transportation\nto\nS.O.B.'s House of Frags\n(skies.servequake.com:27911)"
+"origin" "-768 -992 22"
+"classname" "misc_offworld_teleporter"
+}
+{
+"wait" "3.0"
+"sounds" "2"
+"target" "q2@phlem.ath.cx:27910"
+"message" "Off World Transportation\nto\nLOX Q2 Meet & Greet\n(phlem.ath.cx:27910)"
+"origin" "-1504 -256 22"
+"classname" "misc_offworld_teleporter"
+}
+{
+"wait" "3.0"
+"sounds" "2"
+"target" "q2@aliencause.dyndns.org:27910"
+"message" "Off World Transportation\nto\nBRINGERS OF DEATH LOX\n(aliencause.dyndns.org:27910)"
+"origin" "-1504 256 22"
+"classname" "misc_offworld_teleporter"
+}
+{
+"wait" "3.0"
+"sounds" "2"
+"target" "q2@85.25.52.242:27910"
+"message" "Off World Transportation\nto\nAirrocket.net Quake II Server\n(85.25.52.242:27910)"
+"origin" "-768 992 22"
+"classname" "misc_offworld_teleporter"
+}
+{
+"wait" "3.0"
+"sounds" "2"
+"target" "q2@mrbo.dyndns.org:27910"
+"message" "Off World Transportation\nto\nMr Bovines Battleground\n(mrbo.dyndns.org:27910)"
+"origin" "-256 992 22"
+"classname" "misc_offworld_teleporter"
+}
+{
+"wait" "3.0"
+"sounds" "2"
+"target" "q2@mrcctv.ath.cx:27915"
+"message" "Off World Transportation\nto\nMRCCTV_LOX_Server_1\n(mrcctv.ath.cx:27915)"
+"origin" "256 992 22"
+"classname" "misc_offworld_teleporter"
+}
+{
+"wait" "3.0"
+"sounds" "2"
+"target" "q2@24.179.131.131:27910"
+"message" "Off World Transportation\nto\n-=Soldiers of Vigilance=-\n(24.179.131.131:27910)"
+"origin" "768 992 22"
+"classname" "misc_offworld_teleporter"
+}
+{
+"wait" "3.0"
+"sounds" "2"
+"target" "q2@72.5.249.99:27910"
+"message" "Off World Transportation\nto\nClan WOS LOXOphilia\n(72.5.249.99:27910)"
+"origin" "1504 256 22"
+"classname" "misc_offworld_teleporter"
+}
+{
 "targetname" "q2@phlem.ath.cx:27910"
 "angle" "360"
 "origin" "-200 -32 -160"
