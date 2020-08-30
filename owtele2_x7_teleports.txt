@@ -1,0 +1,48 @@
+{
+"targetname" "q2@phlem.ath.cx:27910"
+"angle" "360"
+"origin" "-200 -32 -160"
+"classname" "misc_teleporter_dest"
+}
+{
+"targetname" "q2@72.5.249.2:27910"
+"angle" "360"
+"origin" "-40 -32 -160"
+"classname" "misc_teleporter_dest"
+}
+{
+"targetname" "q2@38.103.8.98:27917"
+"angle" "360"
+"origin" "120 -32 -160"
+"classname" "misc_teleporter_dest"
+}
+{
+"targetname" "q2@72.5.248.253:27910"
+"angle" "360"
+"origin" "200 -32 -160"
+"classname" "misc_teleporter_dest"
+}
+{
+"targetname" "q2@aliencause.dyndns.org:27910"
+"angle" "360"
+"origin" "-200 32 -160"
+"classname" "misc_teleporter_dest"
+}
+{
+"targetname" "q2@85.25.52.242:27910"
+"angle" "360"
+"origin" "-120 32 -160"
+"classname" "misc_teleporter_dest"
+}
+{
+"targetname" "q2@mrbo.dyndns.org:27910"
+"angle" "360"
+"origin" "-40 32 -160"
+"classname" "misc_teleporter_dest"
+}
+{
+"targetname" "q2@mrcctv.ath.cx:27915"
+"angle" "360"
+"origin" "40 32 -160"
+"classname" "misc_teleporter_dest"
+}
